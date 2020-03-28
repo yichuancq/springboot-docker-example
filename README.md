@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # springboot-docker-example
 =======
 #docker-example
