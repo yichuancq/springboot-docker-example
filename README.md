@@ -1,5 +1,5 @@
-# springboot-docker-example
-### docker国内阿里云安装文件Mac版镜像
+#docker-example
+### docker 国内阿里云安装文件Mac版镜像
 #### http://mirrors.aliyun.com/docker-toolbox/mac/docker-for-mac/stable/
 ### docker镜像源设置，私有源访问设置
 ### mac下path默认安装为/Users/{$user}/.docker/daemon.json
@@ -24,6 +24,7 @@
 ```
 yichuan@yichuandeMacBook-Pro-2 ~ % docker -v
 Docker version 19.03.8, build afacb8b
+
 ```
 ### 修改后重启docker客户端或者用命令重启才能生效，用docker info 查看是否修改成功
 ```
