@@ -1,7 +1,4 @@
 # springboot-docker-example
-=======
-#docker-example
->>>>>>> Stashed changes
 ### docker 国内阿里云安装文件Mac版镜像
 #### http://mirrors.aliyun.com/docker-toolbox/mac/docker-for-mac/stable/
 ### docker docker镜像源设置，私有源访问设置
@@ -92,7 +89,6 @@ Server:
  Live Restore Enabled: false
  Product License: Community Engine
 ```
-<<<<<<< Updated upstream
 ### 下一步，开干 ☺️！
 =======
 ### 下一步，开干 ☺️！
