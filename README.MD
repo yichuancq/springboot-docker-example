@@ -1,7 +1,7 @@
 #docker-example
 ### docker 国内阿里云安装文件Mac版镜像
 #### http://mirrors.aliyun.com/docker-toolbox/mac/docker-for-mac/stable/
-### docker docker镜像源设置，私有源访问设置
+### docker镜像源设置，私有源访问设置
 ### mac下path默认安装为/Users/{$user}/.docker/daemon.json
    
     在 macOS Sierra及以上(Mojave)，我们可以使用快捷键 ⌘⇧.(Command + Shift + .) 来快速（在 Finder 中）显示和隐藏隐藏文件
